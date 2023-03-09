@@ -7,3 +7,5 @@ Script				Description
 5-excute			Add execute permission to the owner of 'hello'
 6-multiple_permissions		Add ext perms to owner, group and read perms to others
 7-everybody			Add ext perms to everybody
+8-James_Bond			Only other users get full perms
+9-John Doe			Odd numbers perms
