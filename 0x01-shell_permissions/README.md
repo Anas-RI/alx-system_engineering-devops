@@ -13,3 +13,4 @@ Script				Description
 11-directories_permissions	Add ext perms to sub to all users
 12-directory_permissions	Create a dir with 751 perms
 13-change_group			Change group owner of a file
+100-change_owner_and_group	As named
