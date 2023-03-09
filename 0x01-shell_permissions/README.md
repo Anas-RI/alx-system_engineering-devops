@@ -9,3 +9,4 @@ Script				Description
 7-everybody			Add ext perms to everybody
 8-James_Bond			Only other users get full perms
 9-John Doe			Odd numbers perms
+10-mirror_permissions		Mirror perms of a file to another
