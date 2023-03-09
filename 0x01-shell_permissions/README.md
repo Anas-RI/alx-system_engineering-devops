@@ -14,3 +14,4 @@ Script				Description
 12-directory_permissions	Create a dir with 751 perms
 13-change_group			Change group owner of a file
 100-change_owner_and_group	As named
+101-symbolic_link_permissions	Come on! the name explain it all
