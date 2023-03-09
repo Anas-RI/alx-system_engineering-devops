@@ -10,3 +10,4 @@ Script				Description
 8-James_Bond			Only other users get full perms
 9-John Doe			Odd numbers perms
 10-mirror_permissions		Mirror perms of a file to another
+11-directories_permissions	Add ext perms to sub to all users
