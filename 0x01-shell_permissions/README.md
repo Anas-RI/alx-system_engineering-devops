@@ -5,3 +5,5 @@ Script				Description
 3-new_owner			Change the owner of a fille 'hello'
 4-empty				Create 'hello' file
 5-excute			Add execute permission to the owner of 'hello'
+6-multiple_permissions		Add ext perms to owner, group and read perms to others
+7-everybody			Add ext perms to everybody
