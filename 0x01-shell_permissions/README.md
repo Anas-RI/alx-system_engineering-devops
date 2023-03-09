@@ -11,3 +11,4 @@ Script				Description
 9-John Doe			Odd numbers perms
 10-mirror_permissions		Mirror perms of a file to another
 11-directories_permissions	Add ext perms to sub to all users
+12-directory_permissions	Create a dir with 751 perms
