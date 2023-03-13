@@ -2,4 +2,4 @@
 
 0-hello_world				Prints "Hello, World"
 1-confused_smiley			Print a confused smiley "(Ôo)'
-
+2-hellofile				Display the content of /etc/passwd
