@@ -16,4 +16,4 @@
 13-unique				Print only words that's not duplicated
 14-findthatword				Display lines containing "root" from /etc/passwd file
 15-countthatword			Display the number of lines that contain "bin" in /etc/passwd
-
+16-whatsnext				Display the line contain "root" and 3 lines after in /etc/passwd
