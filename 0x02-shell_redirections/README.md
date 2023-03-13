@@ -18,3 +18,4 @@
 15-countthatword			Display the number of lines that contain "bin" in /etc/passwd
 16-whatsnext				Display the line contain "root" and 3 lines after in /etc/passwd
 17-hidethisword 			Display all lines except ones with "bin" in /etc/passwd
+18-letteronly				Display only lines that start with letters in /etc/ssh/sshd_config
