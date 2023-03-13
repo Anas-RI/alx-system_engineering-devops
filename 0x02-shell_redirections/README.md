@@ -8,3 +8,4 @@
 5-firstlines				Display the first 10 lines of /etc/passwd file
 6-third_line				Display the third line of the file iacta
 7-file					Create a file with a special name containing the text Best School
+8-cwd_state				Create and write the content of ls -la in a file
