@@ -12,3 +12,4 @@
 9-duplicate_last_line			Duplicate the last line of the file iacta
 10-no_more_js				Remove all .js files
 11-directories				Counts directories and subdirs in cwd
+12-newest_files				Display the 10 newest files in cwd
