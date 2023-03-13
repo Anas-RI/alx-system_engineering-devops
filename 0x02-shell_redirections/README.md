@@ -15,5 +15,5 @@
 12-newest_files				Display the 10 newest files in cwd
 13-unique				Print only words that's not duplicated
 14-findthatword				Display lines containing "root" from /etc/passwd file
-15-					Display the number of lines that contain "bin" in /etc/passwd
+15-countthatword			Display the number of lines that contain "bin" in /etc/passwd
 
