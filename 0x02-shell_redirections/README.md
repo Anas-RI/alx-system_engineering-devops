@@ -10,3 +10,4 @@
 7-file					Create a file with a special name containing the text Best School
 8-cwd_state				Create and write the content of ls -la in a file
 9-duplicate_last_line			Duplicate the last line of the file iacta
+10-no_more_js				Remove all .js files
