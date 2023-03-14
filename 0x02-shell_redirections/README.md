@@ -25,3 +25,4 @@
 22-users_and_homes			Display all users and their home dirs, sorted by users
 100-empty_casks				Finds all empty files and dirs in cwd and sub-dirs
 101-gifs				List all .gif files in the cwd and all its sub-dirs
+102-acrostic				Decodes acrostics that use the first letter of each line
