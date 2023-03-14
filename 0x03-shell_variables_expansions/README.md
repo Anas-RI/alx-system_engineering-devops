@@ -9,3 +9,4 @@ Script				Description
 6-create_local_variable		Create a local variable BEST=School
 7-create_global_variable	Create a global variable BEST=School
 8-true_knowledge		Add 128 to the variable TRUEKNOWLEDGE
+9-divide_and_rule		Devide the variables POWER by DIVIDE
