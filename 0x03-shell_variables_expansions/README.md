@@ -15,3 +15,4 @@ Script				Description
 12-combinations			Print all possible combiantions of two letters, except one "oo"
 13-print_float			Print var NUM with two decimal places
 100-decimal_to_hexadecimal	Convert var DECIMAL from base 10 to base 16
+101-rot13			Encode and Decode text using the rot13 encryption
