@@ -10,3 +10,5 @@ Script				Description
 7-create_global_variable	Create a global variable BEST=School
 8-true_knowledge		Add 128 to the variable TRUEKNOWLEDGE
 9-divide_and_rule		Devide the variables POWER by DIVIDE
+10-love_exponent_breath		Display result of var BREATH to the power var LOVE
+
