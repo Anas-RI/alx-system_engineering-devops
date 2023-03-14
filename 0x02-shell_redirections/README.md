@@ -19,3 +19,4 @@
 16-whatsnext				Display the line contain "root" and 3 lines after in /etc/passwd
 17-hidethisword 			Display all lines except ones with "bin" in /etc/passwd
 18-letteronly				Display only lines that start with letters in /etc/ssh/sshd_config
+19-AZ					Replace A and c to Z and e respectively
