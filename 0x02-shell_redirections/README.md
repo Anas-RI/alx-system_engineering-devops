@@ -23,3 +23,4 @@
 20-hiago				Delete letters c and C from input
 21-reverse				Reverse the inputs
 22-users_and_homes			Display all users and their home dirs, sorted by users
+100-empty_casks				Finds all empty files and dirs in cwd and sub-dirs
