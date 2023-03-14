@@ -17,3 +17,4 @@ Script				Description
 100-decimal_to_hexadecimal	Convert var DECIMAL from base 10 to base 16
 101-rot13			Encode and Decode text using the rot13 encryption
 102-odd				Print every other line from the input
+103-water_and_stir		Add two numbers of vars and print result
