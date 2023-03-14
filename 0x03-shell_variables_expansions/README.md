@@ -6,3 +6,4 @@ Script				Description
 3-paths				Counts Num of dirs in the PATH
 4-global_variables		List environment variables
 5-local_variables		List local, environment variables and functions
+6-create_local_variable		Create a local variable BEST=School
