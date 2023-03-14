@@ -7,3 +7,4 @@ Script				Description
 4-global_variables		List environment variables
 5-local_variables		List local, environment variables and functions
 6-create_local_variable		Create a local variable BEST=School
+7-create_global_variable	Create a global variable BEST=School
