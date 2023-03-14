@@ -11,4 +11,4 @@ Script				Description
 8-true_knowledge		Add 128 to the variable TRUEKNOWLEDGE
 9-divide_and_rule		Devide the variables POWER by DIVIDE
 10-love_exponent_breath		Display result of var BREATH to the power var LOVE
-
+11-binary_to_decimal		Convert var BINARY from base 2 to base 10
