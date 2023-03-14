@@ -22,3 +22,4 @@
 19-AZ					Replace A and c to Z and e respectively
 20-hiago				Delete letters c and C from input
 21-reverse				Reverse the inputs
+22-users_and_homes			Display all users and their home dirs, sorted by users
