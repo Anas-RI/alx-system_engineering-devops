@@ -14,3 +14,4 @@ Script				Description
 11-binary_to_decimal		Convert var BINARY from base 2 to base 10
 12-combinations			Print all possible combiantions of two letters, except one "oo"
 13-print_float			Print var NUM with two decimal places
+100-decimal_to_hexadecimal	Convert var DECIMAL from base 10 to base 16
